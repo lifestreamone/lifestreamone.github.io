@@ -7,6 +7,7 @@
 ชื่อ วิษณุ สมีแจ้ง
 ทำงาน อยู่ประเวศ
 ต่ำแหน่ง Programmer
+Line : Witsanu(wit)
 
 ```
 ![Pic](wit.jpg)
