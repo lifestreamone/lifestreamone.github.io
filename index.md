@@ -8,8 +8,7 @@
 ทำงาน อยู่ประเวศ
 ต่ำแหน่ง Programmer
 
-
-[Link](url) and ![Image](src)
+![รูปภาพ](wit.jpg)
 ```
 
 
