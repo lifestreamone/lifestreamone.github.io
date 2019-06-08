@@ -8,9 +8,7 @@
 ทำงาน อยู่ประเวศ
 ต่ำแหน่ง Programmer
 
-![Pic](wit.jpg)
-
 ```
-
+![Pic](wit.jpg)
 
 รายวิชา [NEIS0736](https://neis0736.github.io/)
