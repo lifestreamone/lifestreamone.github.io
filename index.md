@@ -1,18 +1,12 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lifestreamone/lifestreamone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+สวัสดีครับ 
 
 ```markdown
-Syntax highlighted code block
+ข้อมูลรายละเอียด
 
-# Header 1
-## Header 2
+ชื่อ วิษณุ สมีแจ้ง
+ทำงาน อยู่ประเวศ
+ำต่ำแหน่ง Programmer
 ### Header 3
 
 - Bulleted
